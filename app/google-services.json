@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132020554408",
+    "project_id": "anotacoes-1649005649026",
+    "storage_bucket": "anotacoes-1649005649026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132020554408:android:28473ef3ed43418b3f509d",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.anotacoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132020554408-178a7eptguttb18go10d5suc5oi4opst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn2IySof_An3E9-cfmLX-Ux73Xhl_odAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132020554408-178a7eptguttb18go10d5suc5oi4opst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

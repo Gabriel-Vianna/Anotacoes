@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8759104736",
+    "project_id": "assessment-7a7dc",
+    "storage_bucket": "assessment-7a7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8759104736:android:25b6ce009336e4e5c16c85",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8759104736-q8mgvt1uj2mvjongaq7njj8iknbageo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2UxjsIUDu7ndHADcCINu-mDZzhvcn1Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8759104736-q8mgvt1uj2mvjongaq7njj8iknbageo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
